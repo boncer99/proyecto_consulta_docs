@@ -1,0 +1,15 @@
+Flask==2.0.1
+gunicorn==20.1.0
+werkzeug==2.0.3
+langchain
+langchain-openai
+langchain_core
+langchain-community
+langgraph
+openai
+python-dotenv
+pydantic
+psycopg2-binary
+
+langchain-elasticsearch
+pymupdf
