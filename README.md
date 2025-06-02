@@ -109,8 +109,9 @@ Una vez desplegado, se puede probar el sistema accediendo al dominio público ge
 
 El agente procesará la consulta, determinará la fuente de datos y devolverá una respuesta contextualizada.
 
-![3result1](https://github.com/user-attachments/assets/ed39451d-07a7-420d-b6b7-fc79ec99378a)
-![3result2](https://github.com/user-attachments/assets/82265064-98d5-40d2-895a-bcf088466006)
+![3result1](https://github.com/user-attachments/assets/fc3d2578-4def-4493-aaa7-c85c3e111a3e)
+![3result2](https://github.com/user-attachments/assets/0578a18a-bebb-46ed-9a60-9f28471e9937)
+
 
 ---
 
